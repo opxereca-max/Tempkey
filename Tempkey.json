@@ -8,9 +8,9 @@
   },
   {
     "id": "7f687a322e191812",
-    "username": "haha2",
-    "password": "haha2",
+    "username": "1",
+    "password": "2",
     "expiresAt": "2030-11-30",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
