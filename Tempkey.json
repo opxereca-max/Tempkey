@@ -19,5 +19,12 @@
     "password": "kir",
     "expiresAt": "2090-11-30",
     "allowOffline": true
-    }
+    },  
+  {
+    "id": "9834cf4d19913ad5",
+    "username": "AmirSolo",
+    "password": "Nepiuxew",
+    "expiresAt": "2025-10-00",
+    "allowOffline": true
+  }
 ]
