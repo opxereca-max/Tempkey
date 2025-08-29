@@ -26,5 +26,12 @@
     "password": "Nepiuxew",
     "expiresAt": "2025-10-00",
     "allowOffline": true
+  },
+    {
+    "id": "439bc098aff32617",
+    "username": "erfan_gg",
+    "password": "ZXerfan",
+    "expiresAt": "2025-10-00",
+    "allowOffline": true
   }
 ]
