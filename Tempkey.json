@@ -11,6 +11,13 @@
     "username": "1",
     "password": "2",
     "expiresAt": "2030-11-30",
-    "allowOffline": false
-  }
+    "allowOffline": true
+  },
+  {
+    "id": "7f687a322e191812",
+    "username": "kos",
+    "password": "kir",
+    "expiresAt": "2090-11-30",
+    "allowOffline": true
+    }
 ]
