@@ -33,5 +33,12 @@
     "password": "ZXerfan",
     "expiresAt": "2025-10-00",
     "allowOffline": true
+  },
+  {
+    "id": "716d0530e0478a40",
+    "username": "isagikoni",
+    "password": "isagikoni",
+    "expiresAt": "2025-10-00",
+    "allowOffline": true
   }
 ]
