@@ -40,5 +40,12 @@
     "password": "isagikoni",
     "expiresAt": "2025-10-00",
     "allowOffline": true
+  },
+  {
+    "id": "b0a073c4efb74a72",
+    "username": "ilosh",
+    "password": "ledear",
+    "expiresAt": "2027-10-00",
+    "allowOffline": true
   }
 ]
